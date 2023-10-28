@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Petja314/socialnetwork_samurai.git/static/css/main.996ac598.css",
+    "main.js": "/Petja314/socialnetwork_samurai.git/static/js/main.11bdfaa8.js",
+    "static/css/17.221eb393.chunk.css": "/Petja314/socialnetwork_samurai.git/static/css/17.221eb393.chunk.css",
+    "static/js/17.4babbb1e.chunk.js": "/Petja314/socialnetwork_samurai.git/static/js/17.4babbb1e.chunk.js",
+    "static/css/199.22789745.chunk.css": "/Petja314/socialnetwork_samurai.git/static/css/199.22789745.chunk.css",
+    "static/js/199.0102d9b4.chunk.js": "/Petja314/socialnetwork_samurai.git/static/js/199.0102d9b4.chunk.js",
+    "static/media/louie.jpg": "/Petja314/socialnetwork_samurai.git/static/media/louie.768c6b3cf11be0b49158.jpg",
+    "static/media/spinning-circles.svg": "/Petja314/socialnetwork_samurai.git/static/media/spinning-circles.cff806a7c5b3edb7401158f6331682a1.svg",
+    "index.html": "/Petja314/socialnetwork_samurai.git/index.html",
+    "main.996ac598.css.map": "/Petja314/socialnetwork_samurai.git/static/css/main.996ac598.css.map",
+    "main.11bdfaa8.js.map": "/Petja314/socialnetwork_samurai.git/static/js/main.11bdfaa8.js.map",
+    "17.221eb393.chunk.css.map": "/Petja314/socialnetwork_samurai.git/static/css/17.221eb393.chunk.css.map",
+    "17.4babbb1e.chunk.js.map": "/Petja314/socialnetwork_samurai.git/static/js/17.4babbb1e.chunk.js.map",
+    "199.22789745.chunk.css.map": "/Petja314/socialnetwork_samurai.git/static/css/199.22789745.chunk.css.map",
+    "199.0102d9b4.chunk.js.map": "/Petja314/socialnetwork_samurai.git/static/js/199.0102d9b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.996ac598.css",
+    "static/js/main.11bdfaa8.js"
+  ]
+}
